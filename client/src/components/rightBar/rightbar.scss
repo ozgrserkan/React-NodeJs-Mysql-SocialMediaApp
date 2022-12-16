@@ -6,8 +6,8 @@
     position: sticky;
     top: 70px;
     height: calc(100vh - 70px);
-    overflow: scroll;
-    background-color: themed("bgSoft");
+    overflow: hidden;
+    background-color: themed("bg");
     .container {
       padding: 20px;
       .item {
