@@ -13,7 +13,7 @@ export const AuthContextProvider = ({ children }) => {
       id: 1,
       name: "john",
       profilePic:
-        "https://img.freepik.com/free-vector/mysterious-mafia-man-smoking-cigarette_52683-34828.jpg?w=826&t=st=1671186260~exp=1671186860~hmac=6097b60663fae9f1792afbc55c8ea1f0c1e88349f5aaba017bc09fecf2c0545e",
+        "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?w=826&t=st=1671187498~exp=1671188098~hmac=c31dd5a020222c10114980bb6c643e5e2a5f8a2c273e690c63050c2ba277be4f",
     });
   };
   useEffect(() => {
